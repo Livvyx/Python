@@ -1,4 +1,6 @@
-
+#Olivia Walker
+#Python Coding Practice
+#Topic: Variables
 
 #Python has no command for declaring a variable
 
